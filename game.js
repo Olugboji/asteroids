@@ -313,6 +313,7 @@ Sprite = function () {
       j += 2
       if (j == points.length) j = 0;
     }
+    // test commit
     return oddNodes;
   };
   this.collision = function () {
